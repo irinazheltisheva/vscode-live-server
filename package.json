@@ -342,7 +342,7 @@
     "webpack-cli": "^3.3.0"
   },
   "dependencies": {
-    "http-shutdown": "^1.2.0",
+    "http-shutdown": "^1.2.2",
     "ips": "^2.1.3",
     "live-server": "file:lib\\live-server",
     "opn": "^5.4.0",
